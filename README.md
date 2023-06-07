@@ -1,4 +1,3 @@
-hghjb
 <div style="display:flex;align-items:center;">
   <a href="https://github.com/Behruzbek1212?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=Behruzbek1212&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" />
